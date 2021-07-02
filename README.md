@@ -1,6 +1,4 @@
-<h2>
-  Hiya, I'm Michael! 😄
-</h2>
+## Hiya, I'm Michael! 😄
 
 <p>
  ⚡ Check out my personal website &#8594;
@@ -18,9 +16,9 @@
 
 ---
 
-<h2 align="center">
-  My Current Tech-Stack!
-</h2>
+<h3 align="center">
+  My Current Tech-Stack
+</h3>
 
 <p align="center">
   <img src="./images/icons8-react-native-96.png" alt="React Logo">
@@ -43,9 +41,9 @@
 
 <br />
 
-<h2 align="center">
+<h3 align="center">
   Most Recent Project
-</h2>
+</h3>
 
 <p align="center">
   <a href="https://github.com/mmnos/react-google-books" target="_blank">
