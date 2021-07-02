@@ -37,11 +37,11 @@
 
 <br />
 
----
+<!-- ---
 
-<br />
+<br /> -->
 
-<h3 align="center">
+<!-- <h3 align="center">
   Most Recent Project
 </h3>
 
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<br />
+<br /> -->
 
 <!--
 **mmnos/mmnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
