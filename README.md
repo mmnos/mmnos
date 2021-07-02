@@ -47,9 +47,11 @@
 
 <p align="center">
   <a href="https://github.com/mmnos/react-google-books" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnos&repo=react-google-books" alt="Google Books repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmnos&repo=react-google-books" alt="Google Books repo">
   </a>
 </p>
+
+<br />
 
 <!--
 **mmnos/mmnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
