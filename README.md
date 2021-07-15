@@ -2,7 +2,7 @@
 
 <p>
  ⚡ Check out my personal website &#8594;
- <a href="https://www.michaelnos.com" target="_blank">https://michaelnos.com</a>
+ <a href="https://www.michaelnos.com" target="_blank">https://www.michaelnos.com</a>
 </p>
 
 <p>
