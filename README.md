@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  🌱 I'm in the process of enhancing my skills in TypeScript and GraphQL.
+  🌱 I'm in the process of enhancing my skills in React and GraphQL.
 </p>
 
 <p>
