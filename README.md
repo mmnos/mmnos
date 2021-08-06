@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  🌱 I'm in the process of enhancing my skills in React and GraphQL.
+  🌱 I enjoy researching and trying out new frameworks, libraries, and technologies to expand my skill set.
 </p>
 
 <p>
